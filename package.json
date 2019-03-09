@@ -1,6 +1,6 @@
 {
   "name": "@author.io/element-optgroup",
-  "version": "1.0.1-beta.1",
+  "version": "1.0.1",
   "description": "author-optgroup custom element (web component).",
   "main": "dist/author-optgroup.min.js",
   "scripts": {
